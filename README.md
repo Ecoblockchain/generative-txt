@@ -53,6 +53,9 @@ Some of these may be under the wrong heading, or belong under several headings. 
 ## Art
  - http://complexification.net
  - https://www.flickr.com/photos/davebollinger/
+ - Vera Molnar
+ - Manfred Mohr
+ - Peter Beyls
 
 
 ## Contributors 
