@@ -1,11 +1,8 @@
-# Generative 
+# Architecture // Design 
 
 I'm trying to compile myself a list of interesting generative/parametric/computer aided design and architecture.
 
-I'll be happy to receive pull requests. I might sort this beter when i have had the chance to look through it. 
-
-
-## Architecture // Design 
+I'll be happy to receive pull requests. I might sort this beter when I have had the chance to look through it. 
 
 (unstorted for now)
 
