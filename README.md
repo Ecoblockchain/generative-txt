@@ -11,7 +11,6 @@ I'll be happy to receive pull requests. I might sort this better when I have had
  - http://www.evolo.us/magazine/digital-parametric-architecture/
  - http://www.danielwidrig.com/
  - http://www.eragatory.com/
- - http://www.kokkugia.com/
  - http://n-e-r-v-o-u-s.com
  - http://arandalasch.com/
  - MVDRV
