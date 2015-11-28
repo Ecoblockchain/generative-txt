@@ -1,6 +1,6 @@
 # Architecture // Design 
 
-I'm trying to compile myself a list of interesting generative/parametric/computer aided design and architecture resources
+I'm trying to compile myself a list of interesting generative/parametric/computer aided design and architecture resources.
 
 I'll be happy to receive pull requests. I might sort this better when I have had the chance to look through it. 
 
@@ -49,4 +49,4 @@ I'll be happy to receive pull requests. I might sort this better when I have had
  - @cyarron (twitter)
  - @linkschmensch (twitter)
  - @quasimondo (twitter)
- - @nervous_jessica
+ - @nervous_jessica (twitter)
