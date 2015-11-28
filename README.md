@@ -37,6 +37,7 @@ I'll be happy to receive pull requests. I might sort this better when I have had
  - Greg Lynn
  - gehry / gehry tech
  - http://2015.acadia.org/ (conference)
+ - http://levitated.guru/
 
 ### Contributors 
 
