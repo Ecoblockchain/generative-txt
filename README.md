@@ -1,17 +1,19 @@
-# Architecture // Design 
+# Generative / Parametric / Computer aided design / art / architecture
 
-I'm trying to compile myself a list of interesting generative/parametric/computer aided design and architecture resources.
+An uncomprehensive list of interesting entities.
 
 I'll be happy to receive pull requests. I might sort this better when I have had the chance to look through it. 
 
-(unstorted for now)
+Some of these may be under the wrong heading, or belong under several headings. I'm not trying to define their practice, merly trying to organize things for my own understanding.
+
+
+## Architecture
 
  - http://www.kokkugia.com/
  - http://arandalasch.com/
  - http://www.evolo.us/magazine/digital-parametric-architecture/
  - http://www.danielwidrig.com/
  - http://www.eragatory.com/
- - http://n-e-r-v-o-u-s.com
  - http://arandalasch.com/
  - MVDRV
  - OMA
@@ -37,9 +39,23 @@ I'll be happy to receive pull requests. I might sort this better when I have had
  - Greg Lynn
  - gehry / gehry tech
  - http://2015.acadia.org/ (conference)
- - http://levitated.guru/
 
-### Contributors 
+
+## Design
+
+ - http://levitated.guru/
+ - http://n-e-r-v-o-u-s.com
+ - http://www.field.io/
+ - http://www.onformative.com/(edited)
+ - http://variable.io/
+
+
+## Art
+ - http://complexification.net
+ - https://www.flickr.com/photos/davebollinger/
+
+
+## Contributors 
 
  - @wblut (twitter)
  - @chenoehart (twitter)
@@ -50,3 +66,5 @@ I'll be happy to receive pull requests. I might sort this better when I have had
  - @linkschmensch (twitter)
  - @quasimondo (twitter)
  - @nervous_jessica (twitter)
+ - @nicoptere (twitter)
+
