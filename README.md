@@ -28,6 +28,15 @@ I'll be happy to receive pull requests. I might sort this better when I have had
  - https://generativedesign.wordpress.com/category/architecture/
  - https://en.m.wikipedia.org/wiki/Lars_Spuybroek
  - http://vaa.onl/
+ - Matsys
+ - Achim Menges
+ - R&Sie(n)
+ - theverymany
+ - Neri Oxman
+ - asymptote
+ - Greg Lynn
+ - gehry / gehry tech
+ - http://2015.acadia.org/ (conference)
 
 ### Contributors 
 
@@ -39,4 +48,4 @@ I'll be happy to receive pull requests. I might sort this better when I have had
  - @cyarron (twitter)
  - @linkschmensch (twitter)
  - @quasimondo (twitter)
- 
+ - @nervous_jessica
