@@ -63,6 +63,8 @@ Some of these may be under the wrong heading, or belong under several headings. 
  - Casey Reas
  - Robert Hodgin
  - Georg Nees
+ - Andy Lomas: https://vimeo.com/82989945
+ - Deskriptiv: https://www.youtube.com/watch?v=9HI8FerKr6Q 
  
 
 ## Software
