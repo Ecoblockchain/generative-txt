@@ -56,7 +56,18 @@ Some of these may be under the wrong heading, or belong under several headings. 
  - Vera Molnar
  - Manfred Mohr
  - Peter Beyls
+ - Marius Watz
+ - http://www.generatorx.no/
+ - 
+ 
 
+## Software
+ - Processing
+ - OpenFrameworks
+ - Cinder
+ - WebGL: Three.js
+ - Python: (Cairo, numpy, scipy)
+ - 
 
 ## Contributors 
 
