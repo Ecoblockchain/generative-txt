@@ -51,23 +51,31 @@ Some of these may be under the wrong heading, or belong under several headings. 
 
 
 ## Art
+
  - http://complexification.net
  - https://www.flickr.com/photos/davebollinger/
  - Vera Molnar
  - Manfred Mohr
  - Peter Beyls
+ - Frieder Nake
  - Marius Watz
  - http://www.generatorx.no/
- - 
+ - Casey Reas
+ - Robert Hodgin
+ - Georg Nees
  
 
 ## Software
- - Processing
- - OpenFrameworks
- - Cinder
- - WebGL: Three.js
- - Python: (Cairo, numpy, scipy)
- - 
+
+ - Python + Cairo
+ - Processing/P5.js/P5.py
+ - D3.js (Javascript)
+ - Three.js (Javascript/WebGL)
+ - Canvas (Javascript)
+ - Cinder (C++)
+ - OpenFrameworks (C++)
+ - Blender (Python)
+
 
 ## Contributors 
 
